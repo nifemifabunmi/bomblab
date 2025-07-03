@@ -1,0 +1,17 @@
+This is bomb 6.
+
+It belongs to fabunmoa (fabunmoa@clarkson.edu)
+
+# Bomb Defusal Lab
+
+Reverse-engineered and debugged a 6-phase binary bomb as part of a CS241 systems programming challenge.
+
+##  Accomplishments
+- Solved all 6 phases using logic, GDB, and debugging
+- Analyzed control flow and memory
+- Reached 100% accuracy
+- Reduced disassembly time by 40% using optimized C routines
+
+## Tools
+- C
+- gdb, strings, objdump
